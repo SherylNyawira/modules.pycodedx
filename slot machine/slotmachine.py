@@ -14,7 +14,7 @@ def play():
 while True:
     play()
     # Ask if the player wants to play again
-    play_again = input("Do you want to play again? (Y/N): ").strip().upper()
+    play_again = input("Do you want to play again 😁? (Y/N): ").strip().upper()
     if play_again != 'Y':
-        print("Goodbye!")
+        print("Goodbye! 👋")
         break
